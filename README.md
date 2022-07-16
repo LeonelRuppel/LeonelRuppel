@@ -6,7 +6,7 @@ About Me 👨‍💻
 
 • 🔭 I’m currently working on my Industrial Engineering thesis
 
-• 🌱 I’m currently learning Python and Machine Learning skills
+• 🌱 I’m currently learning about Python and Machine Learning 
 
 • ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics
 
