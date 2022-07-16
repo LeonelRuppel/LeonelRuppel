@@ -3,8 +3,11 @@ Hello there 👋
 About Me 👨‍💻
 
 • 👀 My name is Leonel
+
 • 🔭 I’m currently working on my Industrial Engineering thesis
-• 🌱 I’m currently learning about Python and Machine Learning 
+
+• 🌱 I’m currently learning about Python and Machine Learning
+
 • ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics
 
 Tech Stack
@@ -21,3 +24,9 @@ Tech Stack
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+Contact Me
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
