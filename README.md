@@ -1,6 +1,6 @@
-Hello there 👋
+#Hello there 👋
 
-About Me 👨‍💻
+#About Me 👨‍💻
 
 • 👀 My name is Leonel
 
@@ -10,7 +10,7 @@ About Me 👨‍💻
 
 • ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics
 
-Tech Stack
+#Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -25,7 +25,7 @@ Tech Stack
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-Contact Me
+#Contact Me
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
