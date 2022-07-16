@@ -3,11 +3,8 @@ Hello there 👋
 About Me 👨‍💻
 
 • 👀 My name is Leonel
-
 • 🔭 I’m currently working on my Industrial Engineering thesis
-
 • 🌱 I’m currently learning about Python and Machine Learning 
-
 • ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics
 
 Tech Stack
