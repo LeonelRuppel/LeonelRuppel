@@ -6,7 +6,7 @@
 
 • 📈 I’m currently finishing my Industrial Engineering thesis.
 
-• 🌱 I spend most of my time studying python and machine learning.
+• 🌱 I spend most of my time studying Python and Machine Learning.
 
 • ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics.
 
