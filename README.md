@@ -1,14 +1,14 @@
-## Hello there 👋
+## Hi there 👋 My name is Leonel Ruppel
 
 ## About Me 👨‍💻
 
-• 👀 My name is Leonel
+• 🌎 I´m based in Olavarría, Argentina.
 
-• 🔭 I’m currently working on my Industrial Engineering thesis
+• 📈 I’m currently finishing my Industrial Engineering thesis.
 
-• 🌱 I’m currently learning about Python and Machine Learning
+• 🌱 I spend most of my time studying python and machine learning.
 
-• ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics
+• ⚡ Interests: Artificial Intelligence, Deep Learning, Probability and Statistics.
 
 ## Skills
 
